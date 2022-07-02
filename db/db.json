@@ -1,32 +1,19 @@
 {
   "notesArray": [
     {
-      "title": "Test Title",
-      "text": "Test text"
+      "title": "Hello World!",
+      "text": "Hello World, but smaller",
+      "id": "e4f47f8f-26e0-453d-be22-863ba056d61a"
     },
     {
-      "title": "hello hello",
-      "text": "this this this"
+      "title": "Second Note",
+      "text": "This is the second note",
+      "id": "97fb3b0a-6276-470b-aad6-dcd7822d391d"
     },
     {
-      "title": "test3",
-      "text": "33333"
-    },
-    {
-      "title": "rrr",
-      "text": "rrr"
-    },
-    {
-      "title": "hello hello",
-      "text": "this this this"
-    },
-    {
-      "title": "the ",
-      "text": "Test bologna"
-    },
-    {
-      "title": "test big",
-      "text": "Test text"
+      "title": "Delete me!",
+      "text": "Go ahead, I dare ya!",
+      "id": "fd28eef2-73a5-4f1e-9c58-617708d779b4"
     }
   ]
 }
